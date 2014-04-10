@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>BaseballElimination</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/FlowEdge.java</name>
+			<type>1</type>
+			<location>H:/Code/Java/BaseballElimination/src/FlowEdge.java</location>
+		</link>
+		<link>
+			<name>src/FlowNetwork.java</name>
+			<type>1</type>
+			<location>H:/Code/Java/BaseballElimination/src/FlowNetwork.java</location>
+		</link>
+		<link>
+			<name>src/FordFulkerson.java</name>
+			<type>1</type>
+			<location>H:/Code/Java/BaseballElimination/src/FordFulkerson.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
